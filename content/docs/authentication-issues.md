@@ -53,7 +53,7 @@ Run these command to start the process and add the correct private key.
 
 ```bash
 eval "$(ssh-agent -s)"
-ssh-add -K ~/.ssh/id_rsa
+ssh-add -k ~/.ssh/id_rsa
 ```
 
 ### SSH key has a passphrase
