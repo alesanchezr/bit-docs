@@ -22,7 +22,7 @@ If you haven't signed up already, head over [here](bitsrc.io/signup).
 ### Wrong username/password combination
 
 In case you are not using [SSH key for authentication](docs/setup-authentication.html), Bit will ask for your username/password combination for your [bitsrc.io](bitsrc.io) account. Make sure you have provided with the correct combination of it.  
-In case you have forgotten your password, head to your [setting page](bitsrc.io/settings/profile) to reset it.
+In case you have forgotten your password, head to your [setting page](https://bitsrc.io/settings/profile) to reset it.
 
 ### No permission to the Scope
 
